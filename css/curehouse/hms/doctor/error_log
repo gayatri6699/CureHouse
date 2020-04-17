@@ -1,0 +1,13 @@
+[25-Feb-2017 07:46:52 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 07:46:59 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:05:54 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:07:06 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:07:10 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:07:35 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:07:46 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:07:59 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 08:08:43 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/flashzep/public_html/curehouse/hms/doctor/include/config.php on line 6
+[25-Feb-2017 09:00:07 Etc/GMT] PHP Notice:  Undefined index: errmsg in /home/flashzep/public_html/curehouse/hms/doctor/index.php on line 74
+[25-Feb-2017 10:22:32 Etc/GMT] PHP Notice:  Undefined index: errmsg in /home/flashzep/public_html/curehouse/hms/doctor/index.php on line 74
+[25-Feb-2017 13:53:42 Etc/GMT] PHP Notice:  Undefined index: errmsg in /home/flashzep/public_html/curehouse/hms/doctor/index.php on line 74
+[25-Feb-2017 15:37:04 Etc/GMT] PHP Notice:  Undefined index: errmsg in /home/flashzep/public_html/curehouse/hms/doctor/index.php on line 75
